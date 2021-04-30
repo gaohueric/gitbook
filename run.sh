@@ -78,4 +78,4 @@ git add .
 git commit -m"first depoy"
 git push -f  --set-upstream origin gh-pages
 
-git checkout master
+git checkout main
