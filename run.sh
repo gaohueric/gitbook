@@ -5,7 +5,6 @@ echo "
 run.sh
 # gitbook 相关文件 #
 _book
-node_modules
 # OS generated files #
 ######################
 .DS_Store*
