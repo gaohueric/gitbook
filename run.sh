@@ -61,7 +61,7 @@ gitbook build
 
 # 推送到远程
 git add .
-git commit -m"first commit"
+git commit
 git push -f
 
 # 准备发布
