@@ -1,3 +1,21 @@
 {
-  "plugins": ["chapter-fold","-lunr", "-search", "search-plus"]
+  "title": "LeetCode",
+  "description": "记录 LeetCode刷题过程",
+  "author": "gaohueric",
+  "output.name": "site",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": ".",
+  "links": {
+    "sidebar": {
+      "Home": "https://gaohueric.github.io/"
+    }
+  },
+  "plugins": ["chapter-fold","-lunr", "-search", "search-plus","splitter"],
+  "pluginsConfig": {
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": true
+    }
+  }
 }
