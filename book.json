@@ -1,3 +1,3 @@
 {
-  "plugins": ["chapter-fold"]
+  "plugins": ["chapter-fold","-lunr", "-search", "search-plus"]
 }
