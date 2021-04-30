@@ -50,7 +50,7 @@ Thumbs.db
 
 # 增加到git
 git add .gitignore
-git commit --amend
+git commit --amend -m"fix"
 
 # 安装插件，发布
 gitbook init
@@ -61,7 +61,7 @@ gitbook build
 
 # 推送到远程
 git add .
-git commit
+git commit -m"first commit"
 git push -f
 
 # 准备发布
