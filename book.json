@@ -1,7 +1,7 @@
 {
   "plugins":[
-    "expandable-chapters"
-  ],
-  "plugins": ["toc"]
+    "expandable-chapters",
+     "toc"
 
+  ]
 }
