@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [介绍](introduction/index.md)
-    * [mercury 信息](introduction/information.md)
-        * [Google Dapper](dapper/index.md)
+* [简介](README.md)
+* [LeetCode](简介/index.md)
+    * [数组的遍历](简介/information.md)
+        * [485](Array/485.md)
 * [mercury实现](implementation/index.md)
 
