@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1-chapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-chapter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-chapter/1-part.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-chapter/1-part.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-chapter/2-part.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-chapter/2-part.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-chapter/1-part.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-chapter/1-part.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-chapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-chapter/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/1-chapter/1-part.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -27,12 +30,30 @@
         <entry file="file://$PROJECT_DIR$/1-chapter/2-part.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-chapter/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-chapter/1-part.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-chapter/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
@@ -55,9 +76,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/1-chapter/README.md" />
         <option value="$PROJECT_DIR$/1-chapter/1-part.md" />
         <option value="$PROJECT_DIR$/1-chapter/2-part.md" />
-        <option value="$PROJECT_DIR$/1-chapter/README.md" />
+        <option value="$PROJECT_DIR$/2-chapter/README.md" />
+        <option value="$PROJECT_DIR$/2-chapter/1-part.md" />
       </list>
     </option>
   </component>
@@ -84,6 +107,11 @@
               <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitbook" type="462c0819:PsiDirectoryNode" />
               <item name="1-chapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitbook" type="462c0819:PsiDirectoryNode" />
+              <item name="2-chapter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,7 +148,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230000" />
+    <option name="totallyTimeSpent" value="341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1440" height="823" extended-state="0" />
@@ -133,7 +161,7 @@
       <window_info id="Capture Tool" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.48446327" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.4039548" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Gerrit" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -174,24 +202,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1-chapter/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1-chapter/1-part.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1-chapter/2-part.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-chapter/README.md">
+    <entry file="file://$PROJECT_DIR$/2-chapter/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-chapter/1-part.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
