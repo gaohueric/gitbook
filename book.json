@@ -10,11 +10,5 @@
       "技术博客": "https://gaohueric.github.io/"
     }
   },
-  "plugins": ["chapter-fold","-lunr", "-search", "search-plus","splitter","simple-page-toc"],
-  "pluginsConfig": {
-    "simple-page-toc": {
-      "maxDepth": 3,
-      "skipFirstH1": true
-    }
-  }
+  "plugins": ["chapter-fold","-lunr", "-search", "search-plus","splitter","intopic-toc"]
 }
