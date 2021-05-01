@@ -10,7 +10,7 @@
       "技术博客": "https://gaohueric.github.io/"
     }
   },
-  "plugins": ["chapter-fold","-lunr", "-search", "search-plus","splitter","simple-page-toc@^0.1.1"],
+  "plugins": ["chapter-fold","-lunr", "-search", "search-plus","splitter","simple-page-toc"],
   "pluginsConfig": {
     "simple-page-toc": {
       "maxDepth": 3,
