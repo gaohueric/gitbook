@@ -11,7 +11,7 @@
     }
   },
   "plugins": ["chapter-fold","-lunr",
-    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter"],
+    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus"],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
@@ -23,6 +23,9 @@
       "copyright":"&copy gaohueric",
       "modify_label": "文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "disqus": {
+      "shortName": "gaohuericgitbook"
     }
   }
 }
