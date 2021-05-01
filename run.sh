@@ -4,8 +4,6 @@ touch .gitignore
 echo "
 run.sh
 # gitbook 相关文件 #
-_book
-node_modules
 # OS generated files #
 ######################
 .DS_Store*
@@ -64,14 +62,9 @@ git commit -m"first commit"
 git push -f
 
 # 准备发布
-mv ./_book /tmp/
 
 git branch -D gh-pages
 git checkout -b gh-pages
-ls | xargs rm -rf
-mv /tmp/_book ./
-mv ./_book/* ./
-rm -rf _book
 
 git add .
 git commit -m"first depoy"
