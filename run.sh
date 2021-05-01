@@ -49,7 +49,7 @@ Thumbs.db
 
 # 增加到git
 git add .gitignore
-git commit --amend -m"fix"
+git commit --amend -m"fox"
 
 # 安装插件，发布
 gitbook init
@@ -63,12 +63,17 @@ git commit -m"first commit"
 git push -f
 
 # 准备发布
+mv ./_book /tmp/
 
 git branch -D gh-pages
 git checkout -b gh-pages
+ls | xargs rm -rf
+mv /tmp/_book ./
+mv ./_book/* ./
+rm -rf _book
 
 git add .
 git commit -m"first depoy"
 git push -f  --set-upstream origin gh-pages
 
-git checkout main
+git checkout master
