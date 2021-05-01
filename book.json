@@ -13,7 +13,7 @@
   "plugins": ["chapter-fold","-lunr",
     "-search", "search-plus","splitter",
     "anchor-navigation-ex","tbfed-pagefooter","disqus","edit-link","puml",
-    "donate","copy-code-button","pageview-count","hide-element","popup"],
+    "donate","code","pageview-count","hide-element","popup"],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
