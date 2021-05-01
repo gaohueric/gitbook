@@ -53,7 +53,7 @@ git commit --amend -m"fox"
 
 # 安装插件，发布
 gitbook init
-
+gitbook install
 gitbook build
 
 #gitbook serve
