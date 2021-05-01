@@ -10,13 +10,19 @@
       "技术博客": "https://gaohueric.github.io/"
     }
   },
-  "plugins": ["chapter-fold","-lunr", "-search", "search-plus","splitter","anchor-navigation-ex"],
+  "plugins": ["chapter-fold","-lunr",
+    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter"],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
       "tocLevel1Icon": "fa fa-hand-o-right",
       "tocLevel2Icon": "fa fa-hand-o-right",
       "tocLevel3Icon": "fa fa-hand-o-right"
+    },
+    "tbfed-pagefooter": {
+      "copyright":"&copy gaohueric",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
   }
 }
