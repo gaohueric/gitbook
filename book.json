@@ -16,7 +16,6 @@
   },
   "plugins": [
     "chapter-fold",
-    "toc",
     "-lunr",
     "-search",
     "-highlight",
