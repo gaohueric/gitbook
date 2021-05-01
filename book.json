@@ -11,7 +11,7 @@
     }
   },
   "plugins": ["chapter-fold","-lunr",
-    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus","edit-link","puml"],
+    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus","edit-link","puml","donate"],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
@@ -30,6 +30,14 @@
     "edit-link": {
       "base": "https://github.com/gaohueric/gitbook/blob/main",
       "label": "编辑本页"
+    },
+    "donate": {
+      "wechat": "https://raw.githubusercontent.com/gaohueric/blogpicture/master/weixinpay.png",
+      "alipay": "https://raw.githubusercontent.com/gaohueric/blogpicture/master/alipay.png",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
     }
   }
 }
