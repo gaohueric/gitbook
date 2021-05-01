@@ -52,6 +52,7 @@ git commit --amend -m"fix"
 
 # 安装插件，发布
 gitbook init
+gitbook install
 gitbook build
 
 #gitbook serve

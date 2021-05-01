@@ -1,6 +1,7 @@
 
 run.sh
 # gitbook 相关文件 #
+_book
 # OS generated files #
 ######################
 .DS_Store*
