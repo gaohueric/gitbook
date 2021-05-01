@@ -77,3 +77,4 @@ git commit -m"first depoy"
 git push -f  --set-upstream origin gh-pages
 
 git checkout main
+echo "https://gaohueric.github.io/gitbook/"
