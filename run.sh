@@ -53,7 +53,6 @@ git commit --amend -m"fix"
 
 # 安装插件，发布
 gitbook init
-gitbook install
 gitbook build
 
 #gitbook serve
@@ -68,10 +67,6 @@ mv ./_book /tmp/
 
 git branch -D gh-pages
 git checkout -b gh-pages
-ls | xargs rm -rf
-mv /tmp/_book ./
-mv ./_book/* ./
-rm -rf _book
 
 git add .
 git commit -m"first depoy"
