@@ -11,7 +11,7 @@
     }
   },
   "plugins": ["chapter-fold","-lunr",
-    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus"],
+    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus","copyright"],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
@@ -26,6 +26,11 @@
     },
     "disqus": {
       "shortName": "gaohuericgitbook"
+    },
+    "copyright": {
+      "site": "https://gaohueric.github.io/gitbook/",
+      "author": "gaohueric",
+      "website": "gaohueric"
     }
   }
 }
