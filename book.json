@@ -11,7 +11,7 @@
     }
   },
   "plugins": ["chapter-fold","-lunr",
-    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus","edit-link"],
+    "-search", "search-plus","splitter","anchor-navigation-ex","tbfed-pagefooter","disqus","edit-link","puml"],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
