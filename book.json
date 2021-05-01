@@ -58,7 +58,6 @@
     "graph@^0.1.0",
     "chart@^0.2.0"
   ],
-
   "pluginsConfig": {
     "theme-default": {
       "showLevel": true
@@ -71,7 +70,6 @@
         "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
       ]
     },
-
     "include-codeblock": {
       "template": "ace",
       "unindent": true,
@@ -96,9 +94,16 @@
       "weibo": true,
       "whatsapp": false,
       "all": [
-        "facebook", "google", "twitter",
-        "weibo", "instapaper", "linkedin",
-        "pocket", "stumbleupon", "qq", "qzone"
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper",
+        "linkedin",
+        "pocket",
+        "stumbleupon",
+        "qq",
+        "qzone"
       ]
     },
     "tbfed-pagefooter": {
@@ -118,33 +123,34 @@
       "wechatText": "微信打赏"
     },
     "simple-page-toc": {
-    "maxDepth": 3,
-    "skipFirstH1": true
-  },
-  "edit-link": {
-    "base": "https://github.com/gaohueric/gitbook/tree/main/%E6%95%B0%E7%BB%84",
-    "label": "Edit This Page"
-  },
-  "sitemap-general": {
-    "prefix": "http://gaohueric.github.io"
-  },
-  "anchor-navigation-ex": {
-    "isRewritePageTitle": false,
-    "tocLevel1Icon": "fa fa-hand-o-right",
-    "tocLevel2Icon": "fa fa-hand-o-right",
-    "tocLevel3Icon": "fa fa-hand-o-right"
-  },
-  "sectionx": {
-    "tag": "b"
-  },
-  "favicon": {
-    "shortcut": "favicon.ico",
-    "bookmark": "favicon.ico"
-  },
-  "terminal": {
-    "copyButtons": true,
-    "fade": false,
-    "style": "flat"
+      "maxDepth": 3,
+      "skipFirstH1": true
+    },
+    "edit-link": {
+      "base": "https://github.com/gaohueric/gitbook/tree/main/%E6%95%B0%E7%BB%84",
+      "label": "Edit This Page"
+    },
+    "sitemap-general": {
+      "prefix": "http://gaohueric.github.io"
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": false,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
+    },
+    "sectionx": {
+      "tag": "b"
+    },
+    "favicon": {
+      "shortcut": "favicon.ico",
+      "bookmark": "favicon.ico"
+    },
+    "terminal": {
+      "copyButtons": true,
+      "fade": false,
+      "style": "flat"
+    }
   }
 }
 
