@@ -63,7 +63,6 @@ git commit -m"first commit"
 git push -f
 
 # 准备发布
-mv ./_book /tmp/
 
 git branch -D gh-pages
 git checkout -b gh-pages
