@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://github.com/gaohueric/gaohueric.github.io" target="_blank">
-      <img alt="GitHub Workflow Status" src="https://github.com/gaohueric/gaohueric.github.io">
+      <img alt="GitHub Workflow Status" src="https://gaohueric.github.io/">
     </a>
     <a href="https://github.com/snowdreams1006/snowdreams1006.github.io" target="_blank">
       <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gaohueric/gitbook">
