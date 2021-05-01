@@ -39,14 +39,16 @@
 </p>
 <p align="center">喜欢这个项目？请考虑<a href="https://raw.githubusercontent.com/gaohueric/blogpicture/master/wechat.png" target="_blank">捐赠</a>来帮助它完善！</p>
 
-## 简介
+# 简介
 
-### LeetCode板块
+该板块对博客中的各个知识点进行总结归纳。
+
+# LeetCode板块
 
 本文将对力扣的 1-700 题中不需要会员的数据结构与算法题目进行分类，并推荐一个刷题的顺序。
 对各个Tag的数据结构与算法进行总结、思考、延时，总结模板，总结常见刷题套路，记录code.
 
 leetcode 题目地址 https://leetcode-cn.com/problemset/all/
 
-### 数据库板块
+# 数据库板块
 
