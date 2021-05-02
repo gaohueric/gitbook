@@ -10,10 +10,26 @@
       "技术博客": "https://gaohueric.github.io/"
     }
   },
-  "plugins": ["chapter-fold","-lunr",
-    "-search", "search-plus","splitter",
-    "anchor-navigation-ex","tbfed-pagefooter","disqus","edit-link","puml",
-    "donate","code","pageview-count","hide-element","popup"],
+  "plugins": [
+    "chapter-fold",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "splitter",
+    "anchor-navigation-ex",
+    "tbfed-pagefooter",
+    "disqus",
+    "edit-link",
+    "puml",
+    "donate",
+    "code",
+    "pageview-count",
+    "hide-element",
+    "popup",
+    "terminal",
+    "alerts",
+    "katex"
+  ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
       "isShowTocTitleIcon": true,
@@ -22,7 +38,7 @@
       "tocLevel3Icon": "fa fa-hand-o-right"
     },
     "tbfed-pagefooter": {
-      "copyright":"&copy gaohueric",
+      "copyright": "&copy gaohueric",
       "modify_label": "文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -42,7 +58,14 @@
       "wechatText": "微信打赏"
     },
     "hide-element": {
-      "elements": [".gitbook-link"]
+      "elements": [
+        ".gitbook-link"
+      ]
+    },
+    "terminal": {
+      "copyButtons": true,
+      "fade": false,
+      "style": "flat"
     }
   }
 }
