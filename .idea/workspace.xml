@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/树/100. 相同的树.md" beforeDir="false" afterPath="$PROJECT_DIR$/树/100. 相同的树.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,28 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+        <entry file="file://$PROJECT_DIR$/数组/485. 最大连续 1 的个数.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简介/LeetCode.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="89" selection-start-line="89" selection-end-line="103" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简介/树.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
+            <state>
+              <caret selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -44,44 +27,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/树/100. 相同的树.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.sh">
+        <entry file="file://$PROJECT_DIR$/数组/628. 三个数的最大乘积.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简介/数组.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+            <state relative-caret-position="214">
+              <caret line="52" selection-start-line="52" selection-end-line="55" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -149,12 +105,12 @@
             <path>
               <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="简介" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,7 +155,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46716000" />
+    <option name="totallyTimeSpent" value="47264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1440" height="823" extended-state="0" />
@@ -266,13 +222,6 @@
     <entry file="file://$PROJECT_DIR$/search_plus_index.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/数组/485. 最大连续 1 的个数.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/简介/数组的遍历.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -292,13 +241,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数组/495. 提莫攻击.md">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/628. 三个数的最大乘积.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -349,10 +291,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/数组/485. 最大连续 1 的个数.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/628. 三个数的最大乘积.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="52" selection-start-line="52" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/树/100. 相同的树.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
