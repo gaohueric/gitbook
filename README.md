@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="./hwsun.jpeg" align="center" alt="gaohueric's github logo" />
+ <img width="100px" src="./WechatIMG91.jpeg" align="center" alt="gaohueric's github logo" />
  <h1 align="center">gaohueric</h1>
  <p align="center">天空没有痕迹 风雨已在心中</p>
 </p>
@@ -41,7 +41,7 @@
 
 ## 简介
 
-该板块对博客中的各个知识点进行总结归纳。
+该GitBook对博客中的各个知识点进行总结归纳。
 
 ## LeetCode板块
 
