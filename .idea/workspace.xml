@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/100. 相同的树.md" beforeDir="false" afterPath="$PROJECT_DIR$/树/100. 相同的树.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/简介/树.md" beforeDir="false" afterPath="$PROJECT_DIR$/简介/树.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/简介/树.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="113" column="10" lean-forward="true" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
+            <state relative-caret-position="158">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
@@ -198,7 +195,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51563000" />
+    <option name="totallyTimeSpent" value="53423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="28" y="23" width="1440" height="823" extended-state="0" />
@@ -218,7 +215,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26553673" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39689267" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -350,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/简介/树.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="113" column="10" lean-forward="true" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
+        <state relative-caret-position="158">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
         </state>
       </provider>
     </entry>
