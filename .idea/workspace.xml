@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/栈与递归/150. 逆波兰表达式求值.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -166,10 +166,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74651000" />
+    <option name="totallyTimeSpent" value="74695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1440" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23997134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,7 +350,7 @@
     <entry file="file://$PROJECT_DIR$/栈与递归/150. 逆波兰表达式求值.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
