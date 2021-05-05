@@ -11,44 +11,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/简介/栈与递归.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2104">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -111,16 +74,6 @@
               <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitbook" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="简介" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -164,7 +117,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66334000" />
+    <option name="totallyTimeSpent" value="66419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1440" height="823" extended-state="0" />
@@ -183,7 +136,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.460452" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35451978" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -229,13 +182,6 @@
     <entry file="file://$PROJECT_DIR$/数组/414.md" />
     <entry file="file://$PROJECT_DIR$/search_plus_index.json" />
     <entry file="file://$PROJECT_DIR$/简介/数组的遍历.md" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数组/414. 第三大的数.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -328,8 +274,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/简介/栈与递归.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2104">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="247">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
