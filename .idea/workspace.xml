@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/简介/栈与递归.md" beforeDir="false" afterPath="$PROJECT_DIR$/简介/栈与递归.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/简介/栈与递归.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2188">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="-3">
+              <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -140,7 +139,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65251000" />
+    <option name="totallyTimeSpent" value="65390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1440" height="823" extended-state="0" />
@@ -160,7 +159,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25282487" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25282487" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -305,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/简介/栈与递归.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2188">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="-3">
+          <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
         </state>
       </provider>
     </entry>
