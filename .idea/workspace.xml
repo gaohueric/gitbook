@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/101. 对称二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/树/101. 对称二叉树.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,18 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.sh">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/树/101. 对称二叉树.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-280" />
+            <state relative-caret-position="72">
+              <caret line="4" column="100" lean-forward="true" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/树/100. 相同的树.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state>
+              <caret selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -76,6 +78,7 @@
         <option value="$PROJECT_DIR$/数据库/数据库事务.md" />
         <option value="$PROJECT_DIR$/树/222. 完全二叉树的节点个数.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/树/101. 对称二叉树.md" />
       </list>
     </option>
   </component>
@@ -150,19 +153,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620266767833</updated>
-      <workItem from="1620266769378" duration="2391000" />
+      <workItem from="1620266769378" duration="2505000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79626000" />
+    <option name="totallyTimeSpent" value="79740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28868195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18982808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -241,7 +244,6 @@
     <entry file="file://$PROJECT_DIR$/简介/数组.md" />
     <entry file="file://$PROJECT_DIR$/简介/树.md" />
     <entry file="file://$PROJECT_DIR$/简介/栈与递归.md" />
-    <entry file="file://$PROJECT_DIR$/树/100. 相同的树.md" />
     <entry file="file://$PROJECT_DIR$/栈与递归/682. 棒球比赛.md" />
     <entry file="file://$PROJECT_DIR$/栈与递归/71. 简化路径.md" />
     <entry file="file://$PROJECT_DIR$/栈与递归/150. 逆波兰表达式求值.md" />
@@ -277,6 +279,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/100. 相同的树.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/101. 对称二叉树.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="100" lean-forward="true" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
         </state>
       </provider>
     </entry>
