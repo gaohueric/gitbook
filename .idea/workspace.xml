@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/树/101. 对称二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/树/101. 对称二叉树.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +21,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/树/101. 对称二叉树.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="100" lean-forward="true" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
+            <state relative-caret-position="494">
+              <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[101]对称二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="55" selection-start-line="55" selection-end-line="72" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,12 +94,12 @@
         <option value="$PROJECT_DIR$/数据库/数据库事务.md" />
         <option value="$PROJECT_DIR$/树/222. 完全二叉树的节点个数.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="/var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[101]对称二叉树.java" />
         <option value="$PROJECT_DIR$/树/101. 对称二叉树.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="13" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -153,19 +169,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620266767833</updated>
-      <workItem from="1620266769378" duration="2505000" />
+      <workItem from="1620266769378" duration="5017000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79740000" />
+    <option name="totallyTimeSpent" value="82252000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18982808" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18982808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -179,7 +195,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35451978" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40112993" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -194,7 +210,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="leetcode" order="8" side_tool="true" />
+      <window_info anchor="right" id="leetcode" order="8" side_tool="true" weight="0.3295129" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
@@ -289,10 +305,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[101]对称二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="55" selection-start-line="55" selection-end-line="72" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/树/101. 对称二叉树.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="100" lean-forward="true" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
+        <state relative-caret-position="494">
+          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
         </state>
       </provider>
     </entry>
