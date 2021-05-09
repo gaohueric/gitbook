@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/563. 二叉树的坡度.md" beforeDir="false" afterPath="$PROJECT_DIR$/树/563. 二叉树的坡度.md" afterDir="false" />
-    </list>
+    <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,56 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java基础知识/反射.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[226]翻转二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简介/树.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="213" column="3" selection-start-line="213" selection-start-column="3" selection-end-line="213" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/树/563. 二叉树的坡度.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+            <state relative-caret-position="140">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -76,15 +28,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-75">
               <caret line="76" selection-start-line="76" selection-end-line="94" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/树/100. 相同的树.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -136,11 +79,11 @@
         <option value="$PROJECT_DIR$/简介/数据结构与算法.md" />
         <option value="$PROJECT_DIR$/book.json" />
         <option value="$PROJECT_DIR$/Java基础知识/反射.md" />
-        <option value="/var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[226]翻转二叉树.java" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/简介/树.md" />
         <option value="/var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[563]二叉树的坡度.java" />
         <option value="$PROJECT_DIR$/树/563. 二叉树的坡度.md" />
+        <option value="/var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[226]翻转二叉树.java" />
       </list>
     </option>
   </component>
@@ -231,13 +174,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98470000" />
+    <option name="totallyTimeSpent" value="100332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22277936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1812321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -251,7 +193,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3361582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22740114" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -400,13 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[226]翻转二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/简介/树.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -430,8 +365,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/树/563. 二叉树的坡度.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        <state relative-caret-position="291">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[226]翻转二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
