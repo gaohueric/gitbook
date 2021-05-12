@@ -50,6 +50,13 @@ Collections.sort(list);
 ```
 Collections.sort() 底层是调用 Arrays.sort()
 
+- 对于原始数据类型，目前使用的是所谓双轴快速排序（Dual-Pivot QuickSort），是一种改进的快速排序算法，早期版本是相对传统的快速排序，你可以阅读源码。
+
+- 而对于对象数据类型，目前则是使用TimSort，思想上也是一种归并和二分插入排序（binarySort）结合的优化排序算法。TimSort 并不是 Java 的独创，简单说它的思路是查找数据集中已经排好序的分区（这里叫 run），然后合并这些分区来达到排序的目的。
+
+
+## 对比 Hashtable、HashMap、TreeMap 有什么不同？
+
 
 
 
