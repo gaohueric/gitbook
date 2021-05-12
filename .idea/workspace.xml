@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[617]合并二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="131">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
               <folding>
                 <element signature="e#0#1517#0" expanded="true" />
                 <element signature="e#546#612#0" expanded="true" />
@@ -33,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[508]出现次数最多的子树元素和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-265">
+            <state relative-caret-position="-214">
               <caret line="49" selection-start-line="49" selection-end-line="79" selection-end-column="1" />
               <folding>
                 <element signature="e#0#988#0" expanded="true" />
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/Java基础知识/Java集合框架.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="341">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            <state relative-caret-position="121">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -145,8 +145,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="17" />
-    <option name="y" value="112" />
+    <option name="x" value="-65" />
+    <option name="y" value="62" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -161,11 +161,6 @@
             <path>
               <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitbook" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础知识" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gitbook" type="b2602c69:ProjectViewProjectNode" />
@@ -221,18 +216,18 @@
       <option name="presentableId" value="Default" />
       <updated>1620266767833</updated>
       <workItem from="1620266769378" duration="5017000" />
-      <workItem from="1620793774016" duration="12436000" />
+      <workItem from="1620793774016" duration="13338000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137870000" />
+    <option name="totallyTimeSpent" value="138772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23853868" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23853868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -246,7 +241,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928367" visible="true" weight="0.26977402" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928367" visible="true" weight="0.24717514" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007163" side_tool="true" weight="0.40960452" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -411,28 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[617]合并二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#1517#0" expanded="true" />
-            <element signature="e#546#612#0" expanded="true" />
-            <element signature="e#1452#1516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[508]出现次数最多的子树元素和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-265">
-          <caret line="49" selection-start-line="49" selection-end-line="79" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#988#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/树/508. 出现次数最多的子树元素和.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -443,7 +416,7 @@
     <entry file="file://$PROJECT_DIR$/Java基础知识/Java集合框架.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
@@ -454,10 +427,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[508]出现次数最多的子树元素和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="49" selection-start-line="49" selection-end-line="79" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/n9/rbly2sr16bl9mr4wsckt3k400000gn/T/leetcode/editor/cn/[617]合并二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#1517#0" expanded="true" />
+            <element signature="e#546#612#0" expanded="true" />
+            <element signature="e#1452#1516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state relative-caret-position="121">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
