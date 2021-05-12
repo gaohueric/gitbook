@@ -57,6 +57,19 @@ Collections.sort() 底层是调用 Arrays.sort()
 
 ## 对比 Hashtable、HashMap、TreeMap 有什么不同？
 
+Hashtable、HashMap、TreeMap 都是最常见的一些 Map 实现，是以键值对的形式存储和操作数据的容器类型。
+
+Hashtable 是早期 Java 类库提供的一个哈希表实现，本身是同步的，不支持 null 键和值，由于同步导致的性能开销，所以已经很少被推荐使用。
+
+HashMap 是应用更加广泛的哈希表实现，行为上大致上与 HashTable 一致，主要区别在于 HashMap 不是同步的，支持 null 键和值等。通常情况下，HashMap 进行 put 或者 get 操作，可以达到常数时间的性能，所以它是绝大部分利用键值对存取场景的首选，比如，实现一个用户 ID 和用户信息对应的运行时存储结构。
+
+TreeMap 则是基于红黑树的一种提供顺序访问的 Map，和 HashMap 不同，它的 get、put、remove 之类操作都是 O（log(n)）的时间复杂度，具体顺序可以由指定的 Comparator 来决定，或者根据键的自然顺序来判断。
+
+##如何保证集合是线程安全的? ConcurrentHashMap如何实现高效地线程安全？
+
+Java提供了不同层面的线程安全支持，除了HashTable同步容器，还提供了同步包容器（Synchronized Wrapper),我们可以调用 Collections 工具类提供的包装方法，来获取一个同步的包装容器（如 Collections.synchronizedMap）,调用Collections.synchronizedList(new ArrayList<>())实现线程安全的list.但这种方法是非常粗粒度的同步方式，高并发下性能不高
+
+
 
 
 
