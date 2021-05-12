@@ -29,7 +29,7 @@
 * [Java基础与进阶](简介/Java基础与进阶.md)
     * [Java基础知识](简介/Java基础知识.md)
         * [Java集合框架](Java基础知识/Java集合框架.md)
-        * [JavaI/O](Java基础知识/JavashI/O.md)
+        * [Java IO](Java基础知识/Java IO.md)
         * [反射](Java基础知识/反射.md)
     * [JVM](简介/JVM.md)
     * [并发编程](简介/并发编程.md)
