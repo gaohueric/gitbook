@@ -67,7 +67,13 @@ TreeMap 则是基于红黑树的一种提供顺序访问的 Map，和 HashMap �
 
 ##如何保证集合是线程安全的? ConcurrentHashMap如何实现高效地线程安全？
 
-Java提供了不同层面的线程安全支持，除了HashTable同步容器，还提供了同步包容器（Synchronized Wrapper),我们可以调用 Collections 工具类提供的包装方法，来获取一个同步的包装容器（如 Collections.synchronizedMap）,调用Collections.synchronizedList(new ArrayList<>())实现线程安全的list.但这种方法是非常粗粒度的同步方式，高并发下性能不高
+Java提供了不同层面的线程安全支持，除了HashTable同步容器，还提供了同步包容器（Synchronized Wrapper),我们可以调用 Collections 工具类提供的包装方法，来获取一个同步的包装容器（如 Collections.synchronizedMap）,调用Collections.synchronizedList(new ArrayList<>())实现线程安全的list.但这种方法是非常粗粒度的同步方式，高并发下性能不高.
+
+普通选择利用并发包下提供的线程安全容器类，性能更高。
+
+- 各种并发容器， 比如 ConcurrentHashMap、CopyOnWriteArrayList。
+- 各种线程安全队列（Queue/Deque），如 ArrayBlockingQueue、SynchronousQueue。
+
 
 
 

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a75e1e03-b861-4d51-b4d1-a7abff82bc07" name="Default Changelist" comment="fix">
       <change beforePath="$PROJECT_DIR$/Java基础知识/Java集合框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java基础知识/Java集合框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/508. 出现次数最多的子树元素和.md" beforeDir="false" afterPath="$PROJECT_DIR$/树/508. 出现次数最多的子树元素和.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/树/508. 出现次数最多的子树元素和.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java基础知识/Java集合框架.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="324">
+              <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -203,19 +202,18 @@
       <option name="presentableId" value="Default" />
       <updated>1620266767833</updated>
       <workItem from="1620266769378" duration="5017000" />
-      <workItem from="1620793774016" duration="10209000" />
+      <workItem from="1620793774016" duration="11215000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135643000" />
+    <option name="totallyTimeSpent" value="136649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23853868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23853868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -229,7 +227,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928367" visible="true" weight="0.26977402" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928367" visible="true" weight="0.26977402" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007163" side_tool="true" weight="0.40960452" />
       <window_info anchor="bottom" id="Gerrit" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -433,14 +431,14 @@
     <entry file="file://$PROJECT_DIR$/树/508. 出现次数最多的子树元素和.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java基础知识/Java集合框架.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="324">
+          <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
         </state>
       </provider>
     </entry>
