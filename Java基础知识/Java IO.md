@@ -1,6 +1,6 @@
 # Java IO
 
-##概念
+#概念
 
 Java IO 是一套Java用来读写数据（输入和输出）的API。大部分程序都要处理一些输入，并由输入产生一些输出。Java为此提供了java.io包
 
@@ -26,8 +26,8 @@ File 表示文件目录，但不表示文件内容，以下代码递归的展示
     }
 ```
 
-##字节操作
-**文件拷贝的几种方式**
+#字节操作
+##文件拷贝的几种方式
 实现文件复制,读取一个文件写入另外一个文件，将字符转换为字节，再写入文件。
 ```java
     public static void main(String[] args) throws IOException {
@@ -89,7 +89,7 @@ public static void main(String[] args) throws IOException {
 通过管道方式复制文件比缓冲流快了三分之一
 
 
-##字符操作
+#字符操作
 **String的编码方式**：编码与解码
 ```java
 String str1 = "测试";
@@ -118,7 +118,7 @@ System.out.println(str2);
     }
 ```
 
-##IO模型
+#IO模型
 Java中IO系统可以分为BIO，NIO，AIO三种IO模型
 
 - BIO(blocking I/O) 同步阻塞IO BIO是同步阻塞IO，JDK1.4之前只有这一个IO模型，BIO操作的对象是流，一个线程只能处理一个流的IO请求，如果想要同时处理多个流就需要使用多线程
