@@ -27,6 +27,7 @@ File 表示文件目录，但不表示文件内容，以下代码递归的展示
 ```
 
 ##字节操作
+**文件拷贝的几种方式**
 实现文件复制,读取一个文件写入另外一个文件，将字符转换为字节，再写入文件。
 ```java
     public static void main(String[] args) throws IOException {
@@ -52,6 +53,40 @@ File 表示文件目录，但不表示文件内容，以下代码递归的展示
         }
     }
 ```
+
+通过普通的缓冲输入输出流拷贝文件
+```java
+    public static void main(String[] args) throws IOException {
+        InputStream in = null;
+        OutputStream out = null;
+        try {
+            in = new BufferedInputStream(new FileInputStream("/Users/gaohueric/Documents/known_hosts"));
+            out = new BufferedOutputStream(new FileOutputStream("/Users/gaohueric/Documents/new_test.txt"));
+            byte[] buffer = new byte[2048];
+            int i;
+            while ((i = in.read(buffer)) != -1) {
+                out.write(buffer, 0, i);
+            }
+
+        } catch (Exception e) {
+            System.out.println(1);
+        } finally {
+            in.close();
+            out.close();
+        }
+    }
+```
+
+通过文件管道的方式复制文件
+```java
+public static void main(String[] args) throws IOException {
+    FileChannel in = new FileInputStream("/Users/gaohueric/Documents/known_hosts").getChannel();
+    FileChannel out = new FileOutputStream("/Users/gaohueric/Documents/new_test.txt").getChannel();
+    in.transferTo(0,in.size(),out);
+}
+```
+
+通过管道方式复制文件比缓冲流快了三分之一
 
 
 ##字符操作
