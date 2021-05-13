@@ -27,7 +27,7 @@ File 表示文件目录，但不表示文件内容，以下代码递归的展示
 ```
 
 ##字节操作
-实现文件复制,读取一个文件写入另外一个文件
+实现文件复制,读取一个文件写入另外一个文件，将字符转换为字节，再写入文件。
 ```java
     public static void main(String[] args) throws IOException {
         FileInputStream fileInputStream = new FileInputStream("/Users/gaohueric/Documents/known_hosts");
@@ -53,6 +53,35 @@ File 表示文件目录，但不表示文件内容，以下代码递归的展示
     }
 ```
 
+
+##字符操作
+**String的编码方式**：编码与解码
+```java
+String str1 = "测试";
+byte[] bytes = str1.getBytes("UTF-8");
+String str2 = new String(bytes, "UTF-8");
+System.out.println(str2);
+```
+
+**Reader 与 Writer**
+从文件中读取字节流，转换为字符 输出
+- InputStreamReader 实现从字节流解码成字符流；
+- OutputStreamWriter 实现字符流编码成为字节流。
+
+一下代码实现逐行输出文本文件的内容
+
+```java
+    public static void main(String[] args) throws IOException {
+        FileReader fileReader = new FileReader("/Users/gaohueric/Documents/known_hosts");
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
+        String line;
+        while((line = bufferedReader.readLine()) != null){
+            System.out.println(line);
+        }
+        bufferedReader.close();
+        fileReader.close();
+    }
+```
 
 ##IO模型
 Java中IO系统可以分为BIO，NIO，AIO三种IO模型
