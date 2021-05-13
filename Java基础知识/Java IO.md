@@ -77,7 +77,7 @@ File 表示文件目录，但不表示文件内容，以下代码递归的展示
     }
 ```
 
-通过文件管道的方式复制文件
+通过文件管道的方式复制文件 基于NIO的方式
 ```java
 public static void main(String[] args) throws IOException {
     FileChannel in = new FileInputStream("/Users/gaohueric/Documents/known_hosts").getChannel();
@@ -88,6 +88,10 @@ public static void main(String[] args) throws IOException {
 
 通过管道方式复制文件比缓冲流快了三分之一
 
+原因分析：当我们使用输入输出流进行读写时，实际上是进行了多次上下文切换，比如应用读取数据时，先在内核态将数据从磁盘读取到内核缓存，再切换到用户态将数据从内核缓存读取到用户缓存。
+通过缓冲流方式会带来一定的上下文切换开销，会降低IO效率。
+
+而基于 NIO transferTo 的实现方式，在 Linux 和 Unix 上，则会使用到零拷贝技术，数据传输并不需要用户态参与，省去了上下文切换的开销和不必要的内存拷贝，进而可能提高应用拷贝性能。注意，transferTo 不仅仅是可以用在文件拷贝中，与其类似的，例如读取磁盘文件，然后进行 Socket 发送，同样可以享受这种机制带来的性能和扩展性提高。
 
 #字符操作
 **String的编码方式**：编码与解码
