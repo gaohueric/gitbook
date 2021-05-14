@@ -28,7 +28,7 @@ LinkedList 是基于双向链表实现的 进行节点插入、删除却要高�
   List<Integer> objects = Collections.synchronizedList(new ArrayList<>());
 
 ```
-** 方法二** CopyOnWriteArrayList
+**方法二** CopyOnWriteArrayList
 ```java
   CopyOnWriteArrayList<Integer> copyOnWriteArrayList = new CopyOnWriteArrayList<>();
 ```
