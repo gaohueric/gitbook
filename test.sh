@@ -55,26 +55,5 @@ git commit --amend -m"fox"
 gitbook init
 gitbook build
 
-#gitbook serve
+gitbook serve
 
-# 推送到远程
-git add .
-git commit -m"first commit"
-git push -f
-
-# 准备发布
-mv ./_book /tmp/
-
-git branch -D gh-pages
-git checkout -b gh-pages
-ls | xargs rm -rf
-mv /tmp/_book ./
-mv ./_book/* ./
-rm -rf _book
-
-git add .
-git commit -m"first depoy"
-git push -f  --set-upstream origin gh-pages
-
-git checkout main
-echo "https://gaohueric.github.io/gitbook/"
