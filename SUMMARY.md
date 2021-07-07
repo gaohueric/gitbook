@@ -121,6 +121,7 @@
         * [10、Redis缓存淘汰策略](Redis/Redis缓存淘汰策略.md)
         * [11、缓存一致性问题](Redis/缓存一致性问题.md)
         * [12、缓存雪崩、缓存击穿、缓存穿透问题](Redis/缓存雪崩、缓存击穿、缓存穿透问题.md)
+        * [13、Redis如何应对并发访问](Redis/Redis如何应对并发访问.md)
 * [Java基础与进阶](简介/Java基础与进阶.md)
     * [Java基础知识](简介/Java基础知识.md)
         * [Java集合框架](Java基础知识/Java集合框架.md)
