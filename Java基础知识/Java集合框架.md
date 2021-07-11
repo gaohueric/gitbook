@@ -74,6 +74,50 @@ Java提供了不同层面的线程安全支持，除了HashTable同步容器，�
 - 各种并发容器， 比如 ConcurrentHashMap、CopyOnWriteArrayList。
 - 各种线程安全队列（Queue/Deque），如 ArrayBlockingQueue、SynchronousQueue。
 
+##  如何正确的将数组转换为ArrayList?
+
+```
+List list = new ArrayList<>(Arrays.asList("a", "b", "c"))
+```
+
+java8
+```
+Integer [] myArray = { 1, 2, 3 };
+List myList = Arrays.stream(myArray).collect(Collectors.toList());
+//基本类型也可以实现转换（依赖boxed的装箱操作）
+int [] myArray2 = { 1, 2, 3 };
+List myList = Arrays.stream(myArray2).boxed().collect(Collectors.toList());
+```
+
+使用 Apache Commons Collections
+
+```
+List<String> list = new ArrayList<String>();
+CollectionUtils.addAll(list, str);
+```
+
+使用 Java9 的 List.of()方法
+
+```
+Integer[] array = {1, 2, 3};
+List<Integer> list = List.of(array);
+System.out.println(list); /* [1, 2, 3] */
+```
+
+Collection.toArray()方法使用的坑&如何反转数组
+
+```
+String [] s= new String[]{
+    "dog", "lazy", "a", "over", "jumps", "fox", "brown", "quick", "A"
+};
+List<String> list = Arrays.asList(s);
+Collections.reverse(list);
+s=list.toArray(new String[0]);//没有指定类型的话会报错
+```
+
+
+
+
 
 
 
