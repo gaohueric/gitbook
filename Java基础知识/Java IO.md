@@ -7,7 +7,7 @@ Java IO 是一套Java用来读写数据（输入和输出）的API。大部分�
 ##磁盘操作：File
 
 File 表示文件目录，但不表示文件内容，以下代码递归的展示一个目录下的所有文件
-```java
+```
     public static void main(String[] args) {
         listAllFiles(new File("/Users/gaohueric/Documents/SublimeWorkStation"));
     }
